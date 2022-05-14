@@ -27,7 +27,7 @@ export default class App extends React.Component {
             <div id='top'>
                 {/* 더존 로고 - 메인페이지 이동 */}
                 <div id='logo' className='content'>
-                    <img src='/image/logo.png' alt='douzone' />
+                    <img src='/image/logo.png' alt='ballboy' />
                 </div>
                 {/* tab 생성 */}
                 {tabs.map((v, i) => {
